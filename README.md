@@ -1,5 +1,6 @@
 # COMP472
-Summer 2020: Artificial Intelligence Assignments
+Summer 2020: Artificial Intelligence Assignment 1
+Montreal Crime Data Analytics
 
 ---------------------------------------------------------
 In this assignment, I have used the following libraries:

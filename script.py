@@ -1,6 +1,6 @@
 # -------------------------------------------------------
 # Assignment 1
-# Written by Kenza Boulisfane - 40043521
+# Written by Kenza Boulisfane
 # For COMP 472 Section (JX) – Summer 2020
 # --------------------------------------------------------
 
